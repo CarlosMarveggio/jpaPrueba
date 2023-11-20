@@ -10,6 +10,6 @@ public class JpaPrueba {
        
         ControladoraPersistencia controlPersis = new ControladoraPersistencia();
         
-        System.out.println("prueba para github");
+        System.out.println("segunda prueba para github");
     }
 }
